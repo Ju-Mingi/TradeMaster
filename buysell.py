@@ -1,5 +1,5 @@
 import os
-
+# hello mingi
 # 게임 실행 출력화면을 초기화 함수
 # 이전 거래 내역을 지울 때 사용
 def skiper():
